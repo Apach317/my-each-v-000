@@ -1,6 +1,5 @@
 words = ['hi', 'hello', 'bye', 'goodbye']
 
-def my_each(words)
-  while
+def my_each(while)
 
 end
