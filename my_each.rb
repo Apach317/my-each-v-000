@@ -6,5 +6,5 @@ def my_each(words)
     yeild words[count]
     count += 1
   end
-  count
+  words
 end
