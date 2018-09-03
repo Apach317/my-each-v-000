@@ -1,4 +1,6 @@
+words = ['hi', 'hello', 'bye', 'goodbye']
+
 def my_each(words)
-  words = ['hi', 'hello', 'bye', 'goodbye']
+  while
 
 end
