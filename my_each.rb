@@ -1,6 +1,7 @@
 def my_each(words)
   words = ['hi', 'hello', 'bye', 'goodbye']
-  while words > [] do {|names|}
+
+  while words > [] do |names|
     puts "its #{words}"
   end
 end
