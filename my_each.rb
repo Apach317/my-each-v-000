@@ -4,5 +4,3 @@ def my_each(words)
   while words > [] do |names|
     puts "its #{words}"
   end
-end
-end
